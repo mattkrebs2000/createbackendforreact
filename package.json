@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/mattkrebs2000/createbackendforreact/issues"
   },
-  "homepage": "https://github.com/mattkrebs2000/createbackendforreact#readme"
+  "homepage": "https://github.com/mattkrebs2000/createbackendforreact#readme",
+  "dependencies": {
+    "@firebase/firestore": "^2.2.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase": "^8.3.0",
+    "firebase-admin": "^9.5.0",
+    "morgan": "^1.10.0"
+  }
 }
